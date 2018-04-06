@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BT2_Min</string>
+    <string name="so1">Nhập số thứ nhất</string>
+    <string name="so2">Nhập số thứ hai</string>
+</resources>
